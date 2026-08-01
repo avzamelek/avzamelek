@@ -30,11 +30,6 @@ Open-source tools that make modern engineering systems easier to trust: webhook 
       <p>Deterministic context-window management that explains exactly what was kept and dropped.</p>
       <p><sub>TypeScript · LLM systems · Zero dependencies</sub></p>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/avzamelek/code-review-graph">code-review-graph</a></h3>
-      <p>Local-first code intelligence for MCP and CLI workflows on large codebases.</p>
-      <p><sub>MCP · Developer experience · Local-first</sub></p>
-    </td>
   </tr>
 </table>
 
