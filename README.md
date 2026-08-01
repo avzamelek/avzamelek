@@ -17,7 +17,7 @@
       </h3> Deterministic context-window orchestration for LLM applications. Makes context selection explainable by reporting exactly what is preserved, compressed, and discarded. <sub>TypeScript · LLM Infrastructure · AI Systems</sub>
     </td>
   </tr>
-</table> ## Engineering Principles - **Correctness over convenience** - **Portable by design** - **Standards before frameworks** - **Minimal abstractions** - **Deterministic behavior** - **Developer experience without hidden complexity** ## Technologies <p>
+</table> ## Engineering Principles - ** Correctness over convenience- ** Portable by design - **Standards before frameworks - **Minimal abstractions - **Deterministic behavior - **Developer experience without hidden complexity ## Technologies <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno,react,nextjs,cloudflare,vercel,git&theme=dark" />
 </p> --- <p align="center">
   <sub>Building infrastructure that developers can understand, trust, and ship.</sub>
