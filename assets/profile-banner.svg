@@ -1,0 +1,34 @@
+<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Avza Melek</title>
+  <desc id="description">Developer tools, agent systems, and open source.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#111A34"/>
+      <stop offset="1" stop-color="#1C1240"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="570" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="470" y="-60" width="570" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="36"/>
+    </filter>
+  </defs>
+  <rect width="960" height="220" rx="20" fill="url(#background)"/>
+  <g opacity="0.22" stroke="#94A3B8">
+    <path d="M0 44H960M0 88H960M0 132H960M0 176H960"/>
+    <path d="M80 0V220M160 0V220M240 0V220M320 0V220M400 0V220M480 0V220M560 0V220M640 0V220M720 0V220M800 0V220M880 0V220"/>
+  </g>
+  <circle cx="790" cy="106" r="102" fill="#8B5CF6" opacity="0.2" filter="url(#glow)"/>
+  <path d="M702 165C748 86 783 55 880 28" stroke="url(#accent)" stroke-width="2" opacity="0.85"/>
+  <path d="M722 185C768 106 814 75 920 48" stroke="#38BDF8" stroke-width="2" opacity="0.32"/>
+  <g fill="#C4B5FD">
+    <circle cx="702" cy="165" r="4"/>
+    <circle cx="790" cy="106" r="5"/>
+    <circle cx="880" cy="28" r="4"/>
+  </g>
+  <text x="62" y="88" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">AVZA MELEK</text>
+  <text x="62" y="135" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700">Developer tools for systems that matter.</text>
+  <text x="62" y="170" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4">AGENT SYSTEMS  /  WEB PLATFORM  /  OPEN SOURCE</text>
+</svg>
