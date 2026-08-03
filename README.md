@@ -5,7 +5,7 @@
 <h1 align="center">Avza Melek</h1>
 
 <p align="center">
-Building developer infrastructure • AI systems • Runtime libraries
+Building developer tools • Runtime libraries • Open source
 </p>
 
 <p align="center">
@@ -18,17 +18,26 @@ Building developer infrastructure • AI systems • Runtime libraries
 
 ## About
 
-- Building **developer tooling** and **AI infrastructure**
-- Focus on **TypeScript**, **Web Crypto**, **Edge runtimes**
-- Interested in **LLM systems**, **security**, **DX**
-- Open Source maintainer 
+I'm a software developer focused on building reliable developer tools, reusable libraries, and modern web infrastructure.
+
+My work emphasizes performance, portability, standards compliance, and clean API design across JavaScript runtimes.
+
+- Building developer tools and reusable libraries
+- TypeScript, JavaScript, Web APIs
+- Runtime engineering (Node.js, Bun, Deno, Workers)
+- Web Crypto & security
+- Open source maintainer
+
+---
 
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | **hookproof** | Runtime-agnostic webhook verification with timing-safe cryptography. |
-| **contextfit** | Deterministic context management for LLM applications. |
+| **contextfit** | Context management utilities for modern applications. |
+
+---
 
 ## Tech Stack
 
@@ -38,10 +47,14 @@ Building developer infrastructure • AI systems • Runtime libraries
 
 </p>
 
-## Engineering
+---
+
+## Engineering Principles
 
 ```txt
 Correctness > Convenience
 Standards > Frameworks
 Portable > Platform-specific
 Small APIs > Large abstractions
+Performance > Complexity
+```
