@@ -21,7 +21,7 @@ Building developer infrastructure • AI systems • Runtime libraries
 - Building **developer tooling** and **AI infrastructure**
 - Focus on **TypeScript**, **Web Crypto**, **Edge runtimes**
 - Interested in **LLM systems**, **security**, **DX**
-- Open Source maintainer
+- Open Source maintainer 
 
 ## Featured Projects
 
