@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" width="100%" />
 </p>
 
-<h1 align="center">Avza Melek</h1>
+<h1 align="center">Avza Uğur</h1>
 
 <p align="center">
 Just Welcome to My Git !
