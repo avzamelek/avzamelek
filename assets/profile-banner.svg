@@ -1,6 +1,6 @@
 <svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Avza Melek</title>
-  <desc id="description">Developer tools, agent systems, and open source.</desc>
+  <desc id="description">Hey man ! im building shits.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="220" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
@@ -29,6 +29,6 @@
     <circle cx="880" cy="28" r="4"/>
   </g>
   <text x="62" y="88" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">AVZA MELEK</text>
-  <text x="62" y="135" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700">Developer tools for systems that matter.</text>
-  <text x="62" y="170" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4">AGENT SYSTEMS  /  WEB PLATFORM  /  OPEN SOURCE</text>
+  <text x="62" y="135" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700">Let's build some shits together.</text>
+  <text x="62" y="170" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="1.4"></text>
 </svg>
