@@ -5,7 +5,7 @@
 <h1 align="center">Avza Melek</h1>
 
 <p align="center">
-Building developer tools • Runtime libraries • Open source
+Just Welcome to My Git !
 </p>
 
 <p align="center">
